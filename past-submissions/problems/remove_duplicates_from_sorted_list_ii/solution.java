@@ -16,11 +16,11 @@ class Solution {
         ListNode prev = dummy;
         ListNode curr = head;
 
-        while (curr != null) {
-            if(curr.next!=null && curr.val==curr.next.val){
-                int dupval = curr.val;
+        while(curr!=null){
+            if(curr.next!=null && curr.next.val == curr.val){
+                int duplicateval = curr.val;
 
-                while(curr!=null && curr.val == dupval){
+                while(curr!=null && curr.val == duplicateval){
                     curr = curr.next;
                 }
                 prev.next = curr;
