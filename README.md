@@ -15,14 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
