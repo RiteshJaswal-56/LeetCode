@@ -14,5 +14,4 @@ jobs:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: '.' # Puts files in main directory like LeetHub
-          verbose: true
+          destination-folder: 'past-submissions' # Puts files in main directory like LeetHub
