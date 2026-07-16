@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0029-divide-two-integers) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
