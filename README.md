@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0013-roman-to-integer) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
