@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
