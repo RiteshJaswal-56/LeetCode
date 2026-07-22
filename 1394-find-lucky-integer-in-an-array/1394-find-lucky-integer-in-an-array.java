@@ -10,9 +10,9 @@ class Solution {
             }
         }
         int count = -1;
-        for(int i=0;i<arr.length;i++){
-            if(map.get(arr[i]) == arr[i]){
-                count = Math.max(count , arr[i]);
+        for(int key : map.keySet()){
+            if(key == map.get(key)){
+                count = Math.max(count,key);
             }
         }
         return count;
