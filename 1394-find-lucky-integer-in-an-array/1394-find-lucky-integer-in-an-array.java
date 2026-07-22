@@ -12,7 +12,7 @@ class Solution {
         int count = -1;
         for(int i=0;i<arr.length;i++){
             if(map.get(arr[i]) == arr[i]){
-                count = Math.max(count , map.get(arr[i]));
+                count = Math.max(count , arr[i]);
             }
         }
         return count;
