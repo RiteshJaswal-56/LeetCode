@@ -2,21 +2,18 @@ class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int n = nums.length;
         List<Integer> result = new ArrayList<>();
-
+        HashMap<Integer , Integer> map = new HashMap<>();
         for(int i=0;i<n;i++){
-            if(result.contains(nums[i])){
-                continue;
+            if(map.containsKey(nums[i])){
+                map.put(nums[i] , map.get(nums[i]) + 1);
             }
-            
-            int count = 0;
-            for(int j=i;j<n;j++){
-                if(nums[i] == nums[j]){
-                    count++;
-                }
+            else{
+                map.put(nums[i] , 1);
             }
-
-            if(count > n/3){
-                result.add(nums[i]);
+        }
+        for(int key : map.keySet()){
+            if(map.get(key) > n/3){
+                result.add(key);
             }
         }
         return result;
