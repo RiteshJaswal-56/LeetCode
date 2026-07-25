@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0029-divide-two-integers) |
+| [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Stack
