@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
