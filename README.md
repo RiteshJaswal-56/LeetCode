@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
