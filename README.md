@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
