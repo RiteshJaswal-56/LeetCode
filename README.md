@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0205-isomorphic-strings) |
