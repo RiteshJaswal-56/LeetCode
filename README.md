@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0050-powx-n) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0202-happy-number) |
