@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
