@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0258-add-digits) |
+| [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Enumeration
 |  |
 | ------- |
