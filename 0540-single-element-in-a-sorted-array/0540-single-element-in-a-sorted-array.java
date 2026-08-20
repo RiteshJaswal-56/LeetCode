@@ -1,19 +1,19 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        HashMap<Integer , Integer> map = new HashMap<>();
-        for(int num : nums){
-            if(map.containsKey(num)){
-                map.put(num , map.get(num) + 1);
+        int n = nums.length;
+        if(n==1) return nums[0];
+        for(int i=0;i<n;i++){
+            if(i==0){
+                if(nums[i] != nums[i+1]) return nums[i];
+            }
+            else if(i== n-1){
+                if(nums[i] != nums[i-1]) return nums[i];
             }
             else{
-                map.put(num , 1);
-            }
-        }
-        for(int n : map.keySet()){
-            if(map.get(n) == 1){
-                return n;
+                if(nums[i] != nums[i+1] && nums[i] != nums[i-1]) return nums[i];
             }
         }
         return -1;
+
     }
 }
