@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1901-find-a-peak-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3731-find-missing-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
