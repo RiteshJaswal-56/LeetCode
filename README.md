@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0135-candy) |
 | [0670-maximum-swap](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1903-largest-odd-number-in-string) |
