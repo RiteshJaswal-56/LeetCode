@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
