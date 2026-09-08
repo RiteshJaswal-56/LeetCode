@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0796-rotate-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
