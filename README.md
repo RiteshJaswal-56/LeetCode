@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshJaswal-56/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
