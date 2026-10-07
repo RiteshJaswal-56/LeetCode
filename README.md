@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiteshJaswal-56/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
