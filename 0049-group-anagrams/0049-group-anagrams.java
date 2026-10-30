@@ -6,12 +6,11 @@ class Solution {
             Arrays.sort(ch);
 
             String key = new String(ch);
-
             if(!map.containsKey(key)){
                 map.put(key , new ArrayList<>());
             }
             map.get(key).add(str);
         }
-        return new ArrayList<>(map.values());        
+        return new ArrayList<>(map.values());
     }
 }
