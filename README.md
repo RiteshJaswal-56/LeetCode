@@ -446,20 +446,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0836-rectangle-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
