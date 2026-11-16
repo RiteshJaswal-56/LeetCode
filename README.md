@@ -448,18 +448,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -469,4 +472,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
