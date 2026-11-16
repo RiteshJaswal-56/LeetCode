@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0412-fizz-buzz) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/RiteshJaswal-56/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
